@@ -330,7 +330,25 @@
                                    "@types/react-dom":  "19.1.6"
                                },
                  "onlyBuiltDependencies":  [
-                                               "bcrypt"
+                                               "bcrypt",
+                                               "sharp",
+                                               "esbuild",
+                                               "@prisma/client",
+                                               "@prisma/engines",
+                                               "prisma",
+                                               "bufferutil",
+                                               "utf-8-validate",
+                                               "@swc/core",
+                                               "@parcel/watcher",
+                                               "@sentry/cli",
+                                               "@sentry-internal/node-cpu-profiler",
+                                               "core-js",
+                                               "core-js-pure",
+                                               "protobufjs",
+                                               "unrs-resolver",
+                                               "@scarf/scarf",
+                                               "@nestjs/core",
+                                               "@openapitools/openapi-generator-cli"
                                            ]
              }
 }
