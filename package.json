@@ -327,26 +327,8 @@
       "@types/react": "19.1.8",
       "@types/react-dom": "19.1.6"
     },
-    "onlyBuiltDependencies": [
-      "@nestjs/core",
-      "@openapitools/openapi-generator-cli",
-      "@parcel/watcher",
-      "@prisma/client",
-      "@prisma/engines",
-      "@scarf/scarf",
-      "@sentry-internal/node-cpu-profiler",
-      "@sentry/cli",
-      "@swc/core",
-      "bcrypt",
-      "bufferutil",
-      "core-js",
-      "core-js-pure",
-      "esbuild",
-      "prisma",
-      "protobufjs",
-      "sharp",
-      "unrs-resolver",
-      "utf-8-validate"
+    "approvedBuilds": [
+      "*"
     ]
   }
 }
