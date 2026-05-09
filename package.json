@@ -330,25 +330,25 @@
                                    "@types/react-dom":  "19.1.6"
                                },
                  "onlyBuiltDependencies":  [
-                                               "bcrypt",
-                                               "sharp",
-                                               "esbuild",
+                                               "@nestjs/core",
+                                               "@openapitools/openapi-generator-cli",
+                                               "@parcel/watcher",
                                                "@prisma/client",
                                                "@prisma/engines",
-                                               "prisma",
-                                               "bufferutil",
-                                               "utf-8-validate",
-                                               "@swc/core",
-                                               "@parcel/watcher",
-                                               "@sentry/cli",
+                                               "@scarf/scarf",
                                                "@sentry-internal/node-cpu-profiler",
+                                               "@sentry/cli",
+                                               "@swc/core",
+                                               "bcrypt",
+                                               "bufferutil",
                                                "core-js",
                                                "core-js-pure",
+                                               "esbuild",
+                                               "prisma",
                                                "protobufjs",
+                                               "sharp",
                                                "unrs-resolver",
-                                               "@scarf/scarf",
-                                               "@nestjs/core",
-                                               "@openapitools/openapi-generator-cli"
+                                               "utf-8-validate"
                                            ]
              }
 }
