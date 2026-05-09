@@ -329,6 +329,9 @@
     },
     "onlyBuiltDependencies": [
       "*"
+    ],
+    "approvedBuilds": [
+      "*"
     ]
   }
 }
